@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tien</string>
+    <string name="app_title">Chuyển đổi tiền tệ</string>
+    <string name="enter_amount">Nhập số tiền</string>
+    <string name="result">Kết quả</string>
+    <string name="source_currency">Đồng tiền nguồn</string>
+    <string name="target_currency">Đồng tiền đích</string>
+</resources>
